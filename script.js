@@ -7,3 +7,7 @@ function saludo(){
 function despedida(){
     console.log("Adios");
 }
+
+function camniar(pasos){
+    console.log("se movera " + pasos + " pasos.");
+}
