@@ -17,3 +17,7 @@ function mensaje(mensaje){
 function camniarA(pasos){
     print("se movera " + pasos + " pasos.");
 }
+
+function camniarB(pasos){
+    print("se movera " + pasos + " pasos.");
+}
